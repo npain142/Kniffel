@@ -180,7 +180,7 @@ public class EndFrame extends JPanel {
             JFileChooser jf = new JFileChooser();
             jf.setSelectedFile(new File(f));
             jf.showSaveDialog(null);
-            File writerFile = new File(jf.getCurrentDirectory() + jf.getSelectedFile().getName());
+            File writerFile = new File(jf.getCurrentDirectory() + "\\" +jf.getSelectedFile().getName());
             try (PrintWriter writer = new PrintWriter(writerFile)) {
                 for (int i= 0; i < stringbuilder.length(); i++) {
                     writer.print(stringbuilder.charAt(i));
