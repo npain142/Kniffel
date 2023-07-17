@@ -1,0 +1,51 @@
+*****Bedienungsanleitung******
+
+!!!!
+Leider ist das Feature, mehrere Kniffel einzutragen
+nicht eingebaut. Habe es komplett vergessen.
+!!!
+
+Zu Beginn kann man über das Eingabefeld
+Spieler hinzufügen. 
+
+Bevor man einen Spieler hinzufügt kann man mit dem
+AvatarChooser auf der linken seite seine Farbe
+auswählen.
+
+Oben Links gibt es noch ein Settings-button.
+Dort kann man die Lautstärke einstellen und
+sich die Regeln anschauen.
+
+Nachdem mind. 1 Spieler hinzugefügt wurde,
+kann man das Spiel starten. 
+
+Nach dem Start erscheint auf der linken Seite
+der Spielblock und rechts-mittig ein Knopf mit der 
+Aufschrift "ROLL".
+
+Beim Betätigen des Buttons "Würfelt" man. 
+
+Nachdem die Würfel sichtbar sind kann man
+durch einen Click auf den Würfel,
+diejenigen aussuchen die man behalten möchte
+und weiterwürfeln. 
+
+Ausgewählte Würfel erscheinen in der unteren Hälfte
+und wenn man diese wieder entfernen möchte, 
+erreicht man dies mit dem Klicken darauf.
+
+Das Eintragen in den Spielblock ist erst möglich,
+Wenn alle Würfel ausgewählt sind.
+	-> d.h. Man kann nach dem ersten Wurf
+	alle Würfel auswählen und schauen, und
+	wenn man doch wieder würfeln möchte kann
+	man die Würfel einfach wieder rausklicken.
+
+Danach erscheint ein Button mit der Aufschrift "finish".
+
+Wenn man diesen betätigt, ist der nächste Spieler dran.
+
+Am Ende werden alle Spielbloöcke aufgelistet und der Gewinner
+ermittelt.
+
+
